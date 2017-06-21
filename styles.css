@@ -5,7 +5,7 @@ body {
   font-family: 'Roboto Slab', serif;
   font-weight: 300;
   color: #111;
-  background: url('images/background.png') #edeff0;
+  background: url('svgs/background.svg') #edeff0;
 }
 
 #container {
@@ -79,4 +79,27 @@ footer {
   margin-top: 100px;
   padding-bottom: 30px;
   color: #ba8058;
+}
+
+.logo {
+  height: 140px;
+  width: 120px;
+}
+
+.logo-text-small {
+  display: none;
+}
+
+.dog-svg {
+  width: 170px;
+}
+
+@media screen and (max-width: 420px) {
+  .logo-text {
+    display: none;
+  }
+
+  .logo-text-small {
+    display: block;
+  }
 }
