@@ -86,7 +86,7 @@ footer {
 }
 
 /*********************************/
-/*            SVGS               */
+/*         ADDED STYLES          */
 /*********************************/
 
 .icon {
@@ -125,7 +125,7 @@ a:hover .icon {
 /*       MEDIA QUERIES           */
 /*********************************/
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 424px) {
   .logo-text {
     display: none;
   }
