@@ -113,12 +113,67 @@ a:hover .icon {
   width: 120px;
 }
 
+.logo-background {
+  fill: #BA8058;
+}
+
+.logo-letter {
+  fill: #EAAA7f;
+}
+
+.logo-paw {
+  fill: #F4C6A6;
+}
+
 .logo-text-small {
   display: none;
 }
 
 .dog-svg {
   width: 170px;
+}
+
+.dog-snout {
+  fill: #FBFEFF;
+}
+
+.dog-eyes-and-nose {
+  fill: #2D3339;
+}
+
+.dog-red-ear,
+.dog-red-face {
+  fill: #BA8058;
+}
+
+.dog-red-eyebrows {
+  fill: #EAAA7F;
+}
+
+.dog-fawn-ear,
+.dog-fawn-face {
+  fill: #EAAA7F;
+}
+
+.dog-fawn-eyebrows {
+  fill: #F4C6A6;
+}
+
+.dog-sable-ear {
+  fill: #844B24;
+}
+
+.dog-sable-eyebrows {
+  fill: #BA8058;
+}
+
+.dog-blackandtan-ear,
+.dog-blackandtan-eyebrows {
+  fill: #BA8058;
+}
+
+.dog-blackandtan-face {
+  fill: #52595F;
 }
 
 /*********************************/
